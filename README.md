@@ -22,7 +22,7 @@ Project for a business page with a db to store customers reviews
     ```commandline
     npm start
     ```
-5. To run the server only, run the following on the `root directory`:
+5. To run the server only, run the following on the `server directory`:
     ```
     npm run dev
     ```
